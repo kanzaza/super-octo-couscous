@@ -1,0 +1,12 @@
+{
+  "projectId": "traffic-fine-insight",
+  "appId": "1:436867376375:web:69b9afc918e9f666495ff2",
+  "apiKey": "AIzaSyAvuEMmTyRvmLNXS6A2_n1iOrZ4P9Vkaik",
+  "authDomain": "traffic-fine-insight.firebaseapp.com",
+  "firestoreDatabaseId": "ai-studio-985ce9f3-0757-4dd3-b94b-018b62a99852",
+  "storageBucket": "traffic-fine-insight.firebasestorage.app",
+  "messagingSenderId": "436867376375",
+  "measurementId": "",
+  "oAuthClientId": "436867376375-iim7ch87o6jf7ihpn6gdmh30fuefgmmr.apps.googleusercontent.com",
+  "recaptchaSiteKey": ""
+}

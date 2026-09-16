@@ -1,0 +1,23 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "collections": {
+    "traffic_fines": {
+      "description": "Traffic fine records from Bang Nam Priao Police Station",
+      "fields": {
+        "paymentDate": { "type": "string", "description": "Payment date DD/MM/YYYY Buddhist era" },
+        "ticketDate": { "type": "string", "description": "Ticket issue date DD/MM/YYYY Buddhist era" },
+        "ticketNumber": { "type": "string", "description": "Ticket number" },
+        "legalSection": { "type": "string", "description": "Legal section e.g. ม.60, 6(2)" },
+        "offense": { "type": "string", "description": "Offense description" },
+        "amount": { "type": "number", "description": "Fine amount in THB" },
+        "paymentChannel": { "type": "string", "description": "Payment channel e.g. KTB Mobile Banking, STATION" },
+        "citizenId": { "type": "string", "description": "Masked citizen ID or blank" },
+        "payerName": { "type": "string", "description": "Name of payer" },
+        "helmetCode": { "type": "string", "description": "Officer helmet/badge code" },
+        "officerName": { "type": "string", "description": "Name of issuing police officer" },
+        "actType": { "type": "string", "description": "Act category: พ.ร.บ.รถยนต์, พ.ร.บ.จราจรทางบก, พ.ร.บ.ขนส่ง" },
+        "createdAt": { "type": "string", "description": "ISO timestamp of creation" }
+      }
+    }
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "name": "รายงานยอดค่าปรับจราจร สภ.บางน้ำเปรี้ยว",
+  "description": "Insight Dashboard แสดงข้อมูลรายงานยอดค่าปรับจราจร สถานีตำรวจภูธรบางน้ำเปรี้ยว จังหวัดฉะเชิงเทรา พร้อมระบบวิเคราะห์ข้อมูล สถิติ และการชำระเงิน",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
